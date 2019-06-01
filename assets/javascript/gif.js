@@ -1,4 +1,9 @@
 
+    // <!-- Code copied from form id and input type from week 6 activity 7 movie button -->
+    // <!-- Code copied from the still/animate from type from week 6 activity 15 -->
+    // <!-- All code copied and tweaked from week 6 activities, really -->
+
+
 // setting the offset to render new images everytime a button is pressed
 var offset = 0;
 function displayFoodGifs() {
